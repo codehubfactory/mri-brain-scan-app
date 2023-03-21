@@ -1,7 +1,7 @@
 import sys
 
 def main():
-    print("Hello World,", sys.version_info)
+    print("Hello World,", sys.version)
     
 
 if __name__ == '__main__':
